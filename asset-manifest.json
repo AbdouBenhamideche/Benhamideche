@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d4eddb5.css",
+    "main.js": "/static/js/main.fe110902.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/Computer&Joystick.jpg": "/static/media/Computer&Joystick.4ece12a77d7603eb462a.jpg",
+    "static/media/Pharmacy.jpg": "/static/media/Pharmacy.11d705eac202fdf22862.jpg",
+    "static/media/Doctor.jpg": "/static/media/Doctor.6bf8b20aa4a402e336aa.jpg",
+    "index.html": "/index.html",
+    "main.7d4eddb5.css.map": "/static/css/main.7d4eddb5.css.map",
+    "main.fe110902.js.map": "/static/js/main.fe110902.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4eddb5.css",
+    "static/js/main.fe110902.js"
+  ]
+}
