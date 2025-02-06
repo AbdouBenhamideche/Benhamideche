@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.7d4eddb5.css",
     "main.js": "/static/js/main.fe110902.js",
     "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
@@ -14,5 +15,19 @@
   "entrypoints": [
     "static/css/main.7d4eddb5.css",
     "static/js/main.fe110902.js"
+=======
+    "main.css": "/static/css/main.1a8b2052.css",
+    "main.js": "/static/js/main.cb9e0a6c.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/Benhamideche.mp4": "/static/media/Benhamideche.ff5acde91c77358ae178.mp4",
+    "index.html": "/index.html",
+    "main.1a8b2052.css.map": "/static/css/main.1a8b2052.css.map",
+    "main.cb9e0a6c.js.map": "/static/js/main.cb9e0a6c.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8b2052.css",
+    "static/js/main.cb9e0a6c.js"
+>>>>>>> a87c3a4 (correction de certainnes informations)
   ]
 }
